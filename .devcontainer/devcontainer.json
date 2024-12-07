@@ -1,0 +1,9 @@
+{
+ "name": "Node.js",
+ "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+  "customizations" : {
+    "jetbrains" : {
+      "backend" : "WebStorm"
+    }
+  }
+}
